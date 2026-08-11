@@ -1,2 +1,2 @@
-# My-Personal-Records(GWH)
-Build in 2026-8-11,record something.
+# Putting-ideas-into-words,record something.
+Build in 2026-8-11

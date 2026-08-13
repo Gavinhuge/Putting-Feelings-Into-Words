@@ -5,4 +5,4 @@ Build in 2026-8-11
 
 > `02_Notes: Notes and insights from reading or thinking.`
 
-> `03_Journal: Monthly journal entries.`
+
